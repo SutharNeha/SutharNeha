@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Com student & Web Developer | Skilled in Laravel, PHP, JS, MySQL | Passionate about building scalable web apps & learning Git & deployment workflows.
+B.Com student & Web Developer | Skilled in Laravel, PHP, html, CSS,MySQL | Passionate about building scalable web apps & learning Git & deployment workflows.
 
 
 ## 🌐 Socials:
